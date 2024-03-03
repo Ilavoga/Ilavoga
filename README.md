@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! My name is Sandra Kisambo and I'm a Front-end developer from Nakuru, Kenya</p>
+<h2 align="left">Hi 👋! My name is Sandra Kisambo and I'm a Front-end developer from Nakuru, Kenya</h2>
 
 ###
 
