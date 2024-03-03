@@ -1,3 +1,4 @@
+![Sandra Kisambo](https://github.com/Ilavoga/Ilavoga/assets/143804116/5233ddab-d916-4cd5-9865-c28325b5a7c3)
 <h2 align="left">Hi 👋! My name is Sandra Kisambo and I'm a Front-end developer from Nakuru, Kenya</h2>
 
 ###
