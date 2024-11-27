@@ -43,6 +43,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ilavoga/Ilavoga/output/snake.svg" alt="Snake animation" />
-
-###
